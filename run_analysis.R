@@ -1,4 +1,4 @@
-setwd("~/Projects/Coursera/Getting And Cleaning Data/Getting-and-Cleaning-Data-Course-Project/")
+setwd("~/Projects/Coursera/Getting And Cleaning Data/Getting-and-Cleaning-Data-Course-Project/Getting-and-Cleaning-Data-Course-Project/")
 ### 1. Merges the training and the test sets to create one data set. ###
 
 #Read feature names
